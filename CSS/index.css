@@ -1,0 +1,83 @@
+.inputBox{
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 445px;
+    margin-top: NONE;
+    text-align: right;
+    font-size: x-large;
+    border-top: none;
+    margin-bottom: 7px;
+
+}
+
+.inputEQ
+{
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 445px;
+    margin-bottom: NONE;
+    text-align: right;
+    font-size: x-large;
+    border-bottom: none;
+}
+
+.history
+{
+    border: 2px solid blue;
+    height: 550px;
+    width: 450px;
+    padding: 10px;
+   margin-top:-575px;
+  margin-right: 475px;
+    text-align: right;
+    float: right;
+}
+
+.Keys
+{
+    background-color: aqua;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+    margin: 3px;
+    font-size: x-large;  
+}
+.inputBox:focus
+{
+    outline: none;
+}
+
+.inputEQ:focus
+{
+    outline: none;
+}
+.input-btn{
+    background-color: burlywood;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+    margin: 3px;
+    font-size: x-large;
+}
+.container{
+    background-color: rgb(174, 34, 160);
+    border: 2px solid blue;
+    height: 570px;
+    width: 450px;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.calc{
+    justify-content: center;
+    display: flex;
+}
+
+.btn-remove
+{
+    background-color: burlywood;
+    height: 20px;
+    width: 30px;
+    font-size: x-large; 
+    text-align: right;
+}
